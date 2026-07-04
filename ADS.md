@@ -1,6 +1,6 @@
 ---
 description: Service Ad — generate a presenter Shorts ad prompt-pack (title, description, 3 image + 3 Omni video prompts) for a company's priced service via the service-ad-promo subagent
-argument-hint: [company] — [service] — [price]
+argument-hint: "[company] - [service] - [price]"
 ---
 
 Launch the **service-ad-promo** subagent (Agent tool, `subagent_type: service-ad-promo`) to produce the full service-ad Shorts prompt-pack.
